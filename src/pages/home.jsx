@@ -12,6 +12,7 @@ import Footer from "../components/footer";
 const Home = () => {
   return (
     <main>
+      <TopHeader />
       <Hero />
       <FeaturedProducts />
       <OurStory />
